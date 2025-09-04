@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "is984la-webpack-package",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "some webpack package ",
   "main": "index.js",
   "scripts": {
