@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "is984la-webpack-package",
   "version": "1.0.0",
   "description": "some webpack package ",
