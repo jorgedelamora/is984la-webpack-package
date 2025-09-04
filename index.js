@@ -1,7 +1,9 @@
-const { helperFunc } = require("./helpers");
+import { helperFunc } from "./helpers.js";
 
-const string = "Hello ";
+const myString = "Hello ";
 
-module.exports = {
-	string: helperFunc(string),
+const string = helperFunc(myString);
+
+export {
+	string
 };
